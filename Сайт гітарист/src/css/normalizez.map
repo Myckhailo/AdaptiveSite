@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "normalizez.css",
+	"sources": [
+		"../sass/normalizez.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
